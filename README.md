@@ -38,5 +38,10 @@ Sample JSON response showing the headlines and stories from the home page.
 }
 ```
 
+<h3>Creating your own api</h3>
+1. Create a new spider.
+2. Add it to the imports in apiengine.py
+3. In main.py do this, apiengine.start('spider_name')
+
 <h3>Suggestions</h3>
 If there is a better way of doing the same, feel free to create a pull request or provide your suggestions by opening an issue.
