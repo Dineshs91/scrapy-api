@@ -2,6 +2,9 @@ Create API’s using scrapy.
 
 This is an example to illustrate, how scrapy can be used to create unofficial API’s. Scrapy is used for web page scraping and flask web framework is used for serving the json response.
 
+**Note:** Use this official project from scrapinghub [scrapyrt](https://github.com/scrapinghub/scrapyrt). It provides
+a lot of options and functionalities.
+
 <h3>Usage</h3>
 ```
 $ python main.py
